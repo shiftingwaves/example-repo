@@ -445,3 +445,111 @@
 | teeth    | dant (muhn ke andar)                                 |
 | after    | baad (kisi cheez ke baad)                                 |
 | eating    | khana (khana khana)                                 |
+---
+
+ # Chapter: 4 | **English Word**      | **Roman Urdu Meaning (in parentheses)**                     |
+|-----------------------|------------------------------------------------------       |
+| eaten  | khaya (Khana ka past tense)  |
+| chocolate | chocolate (Meethi cheez jo cocoa se banti hai) |
+| many | bohat (Bohat ziyada) |
+| know | janna (Maloom hona) |
+| where | kahan (Kis jagah) |
+| comes | aata hai (Aane ka amal) |
+| made | bana hua (Banane ka amal) |
+| historians | muarrakheen (Tareekh likhne wale log) |
+| say | kehna (Bolna) |
+| around | aas paas (Idhar udhar) |
+| years | saal (Waqt ki miqdaar) |
+| ancient | qadeem (Bohat purana) |
+| times | zamane (Waqt ke dauran) |
+| symbol | nishan (Aalamat) |
+| wealth | daulat (Ameeri) |
+| rich | ameer (Daulatmand) |
+| afford | khareedna (Kharidne ki taqat rakhna) |
+| came | aaya (Aane ka past tense) |
+| Central | markazi (Beech ka) |
+| South | junubi (Janub ki taraf) |
+| America | America (Aik mulk ka naam) |
+| Spain | Spain (Aik mulk ka naam) |
+| explorers | khojne wale (Daryaft karne wale log) |
+| brought | laya (Laane ka past tense) |
+| back | wapas (Peeche) |
+| popular | maqbool (Mashhoor) |
+| spread | phailna (Charon taraf jana) |
+| throughout | pure (Mukammal) |
+| Europe | Europe (Aik continent ka naam) |
+| amazed | heran (Hairan hona) |
+| cocoa | cocoa (Chocolate ka bunyadi ajza) |
+| trees | darakht (Pode) |
+| raw | kacha (Bina pake) |
+| form | shakal (Banaawat) |
+| surprising | herat angez (Hairan karne wala) |
+| flowers | phool (Pode ke rangin hissay) |
+| grow | ugna (Barhna) |
+| trunk | tana (Darakht ka mota hissa) |
+| branches | shakhain (Darakht ki tehniyan) |
+| throughout | pore (Mukammal) |
+| year | saal (12 mahino ka waqt) |
+| fruit | phal (Khane wali cheez jo darakhton par lagti hai) |
+| ripe | pakka (Khane ke liye tayyar) |
+| reddish | surkh (Surkh rang ka) |
+| pods | phaliyan (Darakht par lagne wali phali) |
+| hang | latakna (Hawa mein latka hona) |
+| contains | shamil (Andar hona) |
+| beans | beans (Darakht ke beej) |
+| takes | lagta hai (Waqt lagna) |
+| months | mahine (Waqt ki miqdaar) |
+| collected | jama (Ikatha karna) |
+| heaps | dher (Bohat sara ikatha) |
+| split | phar (Do hisson mein karna) |
+| remove | nikalna (Hata dena) |
+| process | amal (Kaam) |
+| delicious | lazeez (Mazedar) |
+| making | banana (Banane ka amal) |
+| heated | garam (Garmi dena) |
+| placed | rakhna (Jagah par rakhna) |
+| hot | garam (Ziada garmi) |
+| sun | sooraj (Roshni dene wala sitara) |
+| dry | khushk (Sookha) |
+| sent | bheja (Bhejne ka past tense) |
+| factories | karkhane (Cheezen banane ki jagah) |
+| cleaned | saaf (Saaf karna) |
+| roasted | bhuna hua (Bhoon kar pakana) |
+| oven | oven (Garmi dene wala dibba) |
+| shells | chilke (Upar ka hissa) |
+| removed | hatana (Dur karna) |
+| remaining | baqi (Bacha hua) |
+| pieces | tukde (Chote hissay) |
+| edible | khane ke qabil (Khaya ja sakta hai) |
+| called | kaha jata hai (Naam dena) |
+| nibs | nibs (Chocolate ka chota tukra) |
+| mixed | mila hua (Milana) |
+| sugar | cheeni (Meethi cheez) |
+| paste | paste (Gaarha mixture) |
+| dried | khushk (Sookha) |
+| milk | doodh (Safed piaane ki cheez) |
+| flavours | zaiqe (Maza) |
+| added | mila diya (Shamil karna) |
+| mixture | imtezaaj (Mili hui cheez) |
+| poured | dala (Daalna) |
+| trays | thaliyan (Bari plate) |
+| granite | granite (Pathar) |
+| roller | roller (Ghumane wali cheez) |
+| pushed | dhakelna (Aage karna) |
+| days | din (24 ghante ka waqt) |
+| fine | bareek (Chota) |
+| liquid | maia (Pani jaisa) |
+| finally | akhir mein (Sab se aakhir) |
+| left | chor diya (Chorne ka past tense) |
+| harden | sakht (Sakht hona) |
+| source | zaria (Jahan se koi cheez milti hai) |
+| vitamins | vitamins (Sehat ke liye zaruri) |
+| minerals | madniyat (Sehat ke liye zaruri) |
+| eating | khana (Khane ka amal) |
+| habit | aadat (Roz ka kaam) |
+| must | zaruri (Lazmi) |
+| remember | yaad rakhna (Bhool na jana) |
+| always | hamesha (Har waqt) |
+| brush | brush karna (Dant saaf karna) |
+| teeth | dant (Muh ke andar) |
+| after | baad mein (Peeche) |
