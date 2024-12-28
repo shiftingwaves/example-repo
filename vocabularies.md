@@ -553,3 +553,116 @@
 | brush | brush karna (Dant saaf karna) |
 | teeth | dant (Muh ke andar) |
 | after | baad mein (Peeche) |
+---
+
+ # Chapter: 4 
+
+| **English Word**      | **Roman Urdu Meaning (in parentheses)**                     |
+|-----------------------|------------------------------------------------------       |
+| eaten        | khaya (kisi cheez ko munh mein dal kar chabana)                  |
+| chocolate      | chocolate (meethi cheez jo cocoa se banti hai)                                 |
+| know        | janna (kisi cheez ke bare mein maloomat hona)                  |
+| comes        | aata hai (kisi jagah se nikal kar aana)                  |
+| made        | bana hua (kisi cheez ko banana)                  |
+| historians        | tareekh dan (tareekh likhne wale)                  |
+| say        | kehtay hain (kuch batana)                  |
+| has been        | raha hai (kisi jagah par hona)                  |
+| around       | aas paas (kisi cheez ke gird)                  |
+| years        | saal (waqt ka hissa)                  |
+| ancient       | qadeem (bohat purana)                  |
+| times        | zamana (waqt ki muddat)                  |
+| symbol        | nishani (kisi cheez ki alamat)                  |
+| wealth        | daulat (bohat sara paisa)                  |
+| rich        | ameer (jis ke pass bohat paisa ho)                  |
+| afford        | kharidna (kisi cheez ko kharidne ki taqat)                  |
+| came        | aya (kisi jagah se aana)                  |
+| Central        | Markazi (darmiyan wala)                  |
+| South        | Janobi (janoob ki taraf)                  |
+| America        | America (aik mulk ka naam)                  |
+| Spain        | Spain (aik mulk ka naam)                  |
+| explorers        | khoji (jo nayi jagahen dhoondhte hain)                  |
+| brought        | laya (kisi cheez ko sath lana)                  |
+| back        | wapis (kisi jaga se palatna)                  |
+| popular        | maqbool (bohat pasand kiya jane wala)                  |
+| spread        | phailna (kisi cheez ka charon taraf jana)                  |
+| throughout        | poore (har jagah)                  |
+| Europe        | Europe (aik bra azam ka naam)                  |
+| amazed        | heran (hairan hona)                  |
+| cocoa        | cocoa (chocolate banane wala podha)                  |
+| trees        | darakht (bohat bara podha)                  |
+| raw        | kacha (jo paka hua na ho)                  |
+| form        | shakal (kisi cheez ki shakal)                  |
+| surprising        | heran kun (hairan kar dene wala)                  |
+| flowers        | phool (podhay ka hissa)                  |
+| grow        | ugna (zamin se nikalna)                  |
+| trunk        | tana (darakht ka mota hissa)                  |
+| branches        | shakhain (darakht ki tehniyan)                  |
+| throughout        | poora (har jagah)                  |
+| year        | saal (waqt ka hissa)                  |
+| fruit        | phal (podhay ka meetha hissa)                  |
+| ripe        | paka hua (khane ke liye tayyar)                  |
+| reddish        | surkh (surkh rang ka)                  |
+| pods        | phali (podhay ka hissa)                  |
+| hang        | latakna (kisi cheez ka latka hua hona)                  |
+| over        | oopar (kisi cheez ke oopar)                  |
+| contains        | shamil (kisi cheez ke andar hona)                  |
+| beans        | been (phali ka dana)                  |
+| takes        | lagna (waqt lagna)                  |
+| months        | mahine (waqt ke hisse)                  |
+| collected        | jama karna (kisi cheez ko ikatha karna)                  |
+| heaps        | dher (bohat sari cheezain)                  |
+| split        | todna (do hisson mein karna)                  |
+| open        | kholna (kisi cheez ko kholna)                  |
+| remove        | nikalna (kisi cheez ko hatana)                  |
+| process        | amal (kisi cheez ko banane ka tariqa)                  |
+| delicious        | lazeez (bohat mazedar)                  |
+| making        | banana (kisi cheez ko banana)                  |
+| starts        | shuru (kisi kam ka aghaz)                  |
+| heated        | garam (kisi cheez ko garam karna)                  |
+| placed        | rakha (kisi cheez ko rakhna)                  |
+| hot        | garam (bohat zyada garam)                  |
+| sun        | suraj (roshni dene wala sitara)                  |
+| dry        | khushk (geela na hona)                  |
+| sent        | bheja (kisi cheez ko kahin bhejna)                  |
+| factories        | karkhane (jahan cheezain banti hain)                  |
+| cleaned        | saaf (ganda na hona)                  |
+| roasted        | bhunna (kisi cheez ko aag pe bhunna)                  |
+| oven        | oven (khana pakane ki jagah)                  |
+| shells        | khol (kisi cheez ka outer hissa)                  |
+| removed        | hatana (kisi cheez ko hatana)                  |
+| remaining        | baqi (jo bacha hua ho)                  |
+| pieces        | tukre (kisi cheez ke hisse)                  |
+| edible       | khanay kay laiq (khana mumkin)                  |
+| called        | kehlatay (kisi cheez ko bulana)                  |
+| nibs        | nibs (chocolate ke tukre)                  |
+| mixed        | milana (do cheezon ko milana)                  |
+| sugar        | cheeni (meethi cheez)                  |
+| paste        | paste (gaarha mixture)                  |
+| dried        | khushk (geela na hona)                  |
+| milk        | doodh (safaid rang ka peene ki cheez)                  |
+| flavours        | zaiqe (khane ka zaiqa)                  |
+| added        | milaya (kisi cheez mein milana)                  |
+| mixture        | aameza (do cheezon ka mix)                  |
+| poured        | dala (kisi cheez ko kahin dalna)                  |
+| trays        | tray (barten)                  |
+| granite        | granite (pathar ki qisam)                  |
+| roller        | roller (ghoomne wali cheez)                  |
+| pushed        | dhakela (kisi cheez ko dhakelna)                  |
+| days        | din (waqt ka hissa)                  |
+| becomes        | ban jata hai (kisi cheez ka kuch aur ban jana)                  |
+| fine        | bareek (chota)                  |
+| liquid        | maya (pani ki tarah)                  |
+| finally        | aakhir kar (sab se akhir mein)                  |
+| left        | chora (kisi cheez ko kahin chorna)                  |
+| harden        | sakht (sakht hona)                  |
+| source        | zaria (kisi cheez ka milne ka zaria)                  |
+| vitamins        | vitamins (sehat ke liye zaroori cheez)                  |
+| minerals        | minerals (sehat ke liye zaroori cheez)                  |
+| eating        | khana (kisi cheez ko khana)                  |
+| habit        | adat (kisi kam ko bar bar karna)                  |
+| must        | zaroor (kisi kam ko zaroor karna)                  |
+| remember        | yad rakhna (kisi cheez ko yad rakhna)                  |
+| always        | hamesha (har waqt)                  |
+| brush        | brush (dant saaf karne ka tool)                  |
+| teeth        | dant (munh ke andar)                  |
+| after        | baad (kisi kam ke baad)                  |
