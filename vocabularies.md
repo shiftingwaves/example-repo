@@ -231,3 +231,112 @@
 | brush      | brush karna (dant saaf karna)                                |
 | teeth      | dant (muh ke andar)                                |
 | after      | baad mein (kisi cheez ke baad)                                |
+---
+
+| **English Word**      | **Roman Urdu Meaning (in parentheses)**                     |
+|-----------------------|------------------------------------------------------       |
+| eaten        | khaya (khane ka amal)                  |
+| chocolate      | chocolate (meethi cheez)                                 |
+| many        | bahut (ziada tadaad)                                |
+| know        | janna (maloom hona)                                 |
+| comes       | aata hai (kahin se aana)                               |
+| made      | bana hua (banaya gaya)                                 |
+| historians       | tareekh dan (tareekh janne wale)                               |
+| say       | kehna (bolna)                                |
+| around      | aas paas (chare taraf)                                |
+| years       | saal (waqt ka ikai)                                |
+| ancient       | qadeem (purana)                               |
+| times       | waqt (zamana)                                 |
+| symbol     | nishan (alamat)                                |
+| wealth    | daulat (paisa)                                 |
+| rich      | ameer (dolatmand)                                 |
+| afford      | khareedna (paise se lena)                                 |
+| came      | aaya (kahin se aana)                                 |
+| Central       | markazi (darmiyani)                                |
+| South       | junoob (neechay wala)                               |
+| America      | America (aik mulk ka naam)                                |
+| Spain       | Spain (aik mulk ka naam)                                |
+| explorers       | khoji (dhoondhne wala)                                 |
+| brought       | laya (le kar aana)                                 |
+| back      | wapas (peechay)                                 |
+| popular       | mashhoor (har dil azeez)                                |
+| spread       | phaila (har taraf)                                |
+| throughout      | sab jagah (har taraf)                                 |
+| Europe       | Europe (aik khita ka naam)                                 |
+| amazed       | hairan (mutajab hona)                                |
+| cocoa       | cocoa (chocolate ka binola)                                |
+| trees       | darakht (pair)                                |
+| raw       | kacha (pakka na hona)                                |
+| form       | shakal (banawat)                                |
+| surprising       | heran kun (hairat angaiz)                                |
+| flowers       | phool (kali)                                |
+| grow       | ugna (barhna)                               |
+| trunk      | tana (darakht ka hissa)                                |
+| branches       | shakhay (darakht ki daliyan)                                |
+| throughout      | har waqt (poora waqt)                                 |
+| year      | saal (baras)                                 |
+| fruit       | phal (meetha)                                |
+| ripe       | pakka (khana ke layaq)                                |
+| reddish       | surkh (laal rang)                                |
+| pods       | phaliyan (lamabi cheezein)                                |
+| hang       | latakna (neechay hona)                                |
+| contains       | rakhna (shamil hona)                                |
+| beans       | binolay (phali ke andar)                                |
+| takes       | lagna (waqt lagna)                                |
+| months       | mahine (waqt ke hissay)                                |
+| ripen      | pakna (tayyar hona)                                |
+| collected       | jama (aikattha karna)                                |
+| heaps       | dher (aik jagah rakhna)                                |
+| split       | pharna (do tukray karna)                                |
+| remove       | hatana (door karna)                                |
+| process       | amal (tarika)                                |
+| delicious       | lazeez (mazedar)                                |
+| making       | banana (tayyar karna)                                |
+| starts       | shuru (aaghaz karna)                                |
+| heated       | garam (tapa hua)                                |
+| placed       | rakha (jagah par rakhna)                                |
+| hot       | garam (taiz tapish)                                |
+| sun       | suraj (roshni dene wala)                                |
+| dry       | khushk (sokha hua)                                |
+| sent       | bheja (ik jagah se dosri jagah)                                |
+| factories       | karkhane (cheez banane ki jagah)                                |
+| cleaned       | saaf (dhoya hua)                                |
+| roasted       | bhuna (aag par pakana)                                |
+| oven       | tandoor (bhuna ne ki jagah)                               |
+| shells       | chilkay (khool)                                |
+| removed      | hataya (nikala)                                 |
+| remaining       | baqi (bacha hua)                                |
+| pieces       | tukray (chotay hissay)                                |
+| edible      | khane ke layaq (jo kha sakain)                                 |
+| called      | kehte hain (pukara jata hai)                                 |
+| nibs       | nibs (chocolate ka hissa)                                |
+| mixed      | milaya (aik sath karna)                                 |
+| sugar       | cheeni (meethi)                                |
+| paste       | paste (garha mixture)                                |
+| dried       | khushk (sokha hua)                                |
+| milk       | doodh (safeed mayal)                                |
+| flavours       | zaiqay (mazay)                                |
+| added       | milaya (shamil karna)                                |
+| mixture       | ameeza (milawat)                                |
+| poured       | dala (undelna)                                |
+| trays       | thaliyan (platen)                                |
+| granite       | granite (sakht pathar)                                |
+| roller       | roller (ghoomne wali cheez)                                |
+| pushed       | dhakela (aagay karna)                                |
+| several       | kai (kuch zyada)                                |
+| days       | din (waqt ka ikai)                                |
+| fine       | barik (chota)                                |
+| liquid      | mayal (pani jesa)                                 |
+| left       | choda (baki rakhna)                                |
+| harden       | sakht (mazboot hona)                                |
+| source       | zariya (hasil karne ka zariya)                                |
+| vitamins       | vitamins (sehat ke liye)                                |
+| minerals       | minerals (madniyat)                                |
+| eating       | khana (khana ka amal)                                |
+| habit       | adat (har roz karna)                                |
+| must       | zarur (lazmi)                                |
+| remember       | yaad (zehen me rakhna)                                |
+| always       | hamesha (har waqt)                                |
+| brush       | brush (saaf karna)                                |
+| teeth       | daant (mun ka hissa)                                |
+| after      | baad (kisi cheez ke baad)                                 |
