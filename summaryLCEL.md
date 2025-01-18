@@ -51,3 +51,10 @@ The **LCEL** is designed to integrate multiple components of LangChain, such as 
 4. **State Management**: In complex LangChain workflows, maintaining state is crucial. LCEL helps in managing state transitions across different components, such as models, tools, and memories, enabling consistent results throughout the process.
 
 In summary, the LangChain Execution Layer (LCEL) is central to how LangChain orchestrates various components and workflows, enabling more sophisticated, flexible, and scalable execution of tasks in a LangChain-powered application.
+
+
+---
+
+---
+
+some notes
