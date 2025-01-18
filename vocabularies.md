@@ -779,3 +779,10 @@
 | brush | brush karna (saaf karna) |
 | teeth | dant (muh ke hissay) |
 | after | baad (bad mein) |
+
+
+---
+
+---
+
+some notes
